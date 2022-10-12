@@ -2,9 +2,9 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta name="description" content="Andrey">
+  <meta name="description" content="Roman">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>✡ Andrey ✡</title>
+  <title>✡ Roman ✡</title>
   <link rel="shortcut icon" href="assets/images/logo.png" type="image/png">
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/LineIcons.css">
@@ -8652,8 +8652,8 @@
         <div class="row align-items-center">
           <div class="col-xl-6 col-lg-6">
             <div class="header-content-right" style="text-align:center;">
-              <h4 class="sub-title">Hello, I’m Andrey</h4>
-              <h1 class="title">Andreynosov</h1>
+              <h4 class="sub-title">Hello, I’m Roman</h4>
+              <h1 class="title">Roman Kei</h1>
               <p>Talented Full Stack Devleoper</p>
               <!-- <button type="button" class="main-btn" data-toggle="modal" data-target="#selectsites">
                 <i class="lni-twitter"></i> &nbsp; Hire Me! </button> -->
@@ -8741,7 +8741,7 @@
         <div class="col-lg-8">
           <div class="section-title text-center">
             <h2 class="title" style="color:rgb(117,78,249);">About Me</h2>
-            <a class="main-btn" href="https://cvdesignr.com/p/62581f2357c80" target="_blank">
+            <a class="main-btn" href="https://cvdesignr.com/p/63445080812a0" target="_blank">
               <i class="lni-user"></i> &nbsp; My Resume </a>
             <p>I love where I work and what I do. I am focusing on Web & AI & Blockchain.</p>
             <p>Always satisfying customers by <Strong>Suggestion</Strong> of sharp business ideas to increase sales
@@ -8772,7 +8772,7 @@
       <div class="row">
         <div class="col-lg-6">
           <div class="about-content mt-50">
-            <h5 class="about-title" style="color:rgb(117,78,249);">Full Stack, Full Time Developer from Russia</h5>
+            <h5 class="about-title" style="color:rgb(117,78,249);">Full Stack, Full Time Developer from Hong Kong</h5>
             <br>
             <br>
             <p>My Skill Set:</p>
@@ -8810,7 +8810,7 @@
                   </div>
                   <div class="info-text">
                     <p>
-                      <span>Email:</span> andreynosov20022@gmail.com
+                      <span>Email:</span> novasuper042@gmail.com
                     </p>
                   </div>
                 </div>
@@ -8834,7 +8834,7 @@
                   </div>
                   <div class="info-text">
                     <p>
-                      <span>Location:</span> Samara, Samara Oblast
+                      <span>Location:</span> Victoria, Hong Kong
                     </p>
                   </div>
                 </div>
@@ -9888,9 +9888,9 @@
               <i class="lni-slack"></i>
             </div>
             <div class="contact-content">
-              <h6 class="contact-title">Slack</h6>
-              <!-- <a href="https://wa.me/380636763691" target="_blank">andreynosov20022@gmail.com</a> -->
-              <a href="">andreynosov20022@gmail.com</a>
+              <h6 class="contact-title">Discord</h6>
+              <!-- <a href="https://wa.me/380636763691" target="_blank">novasuper042@gmail.com</a> -->
+              <a href="">supernova#6955</a>
             </div>
           </div>
         </div>
@@ -9901,7 +9901,7 @@
             </div>
             <div class="contact-content">
               <h6 class="contact-title">Email</h6>
-              <a href="mailto:andreynosov20022@gmail.com" target="_blank">andreynosov20022@gmail.com</a>
+              <a href="mailto:novasuper042@gmail.com" target="_blank">novasuper042@gmail.com</a>
             </div>
           </div>
         </div>
@@ -9935,7 +9935,8 @@
           <div class="contact-map mt-60">
             <div class="gmap_canvas">
               <!-- <iframe id="gmap_canvas" src="https://maps.google.com/maps?width=100%25&amp;height=300&amp;hl=en&amp;q=tokmak,%20zaporzhia,%20ukraine+(sasha)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe> -->
-              <iframe id="gmap_canvas" src="https://maps.google.com/maps?width=100%25&amp;height=300&amp;hl=en&amp;q=samara,%20samara,%20russia+&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+              <!-- <iframe id="gmap_canvas" src="https://maps.google.com/maps?width=100%25&amp;height=300&amp;hl=en&amp;q=samara,%20samara,%20Hong Kong+&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe> -->
+              <iframe id="gmap_canvas" src="https://maps.google.com/maps?width=100%25&height=300&hl=en&q=%20victoria,%harbour,%20hongkong+&t=&z=12&ie=UTF8&iwloc=B&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
             </div>
           </div>
         </div>
@@ -9951,24 +9952,24 @@
               <a href="index.html">
                 <img src="assets/images/logo.png" alt="Logo" style="width:70%;">
               </a>
-              <ul>
+              <!-- <ul>
                 <li>
-                  <a href="https://www.facebook.com/andrey.nosov.560" target="_blank"><i class="lni-facebook-filled"></i>
+                  <a href="https://www.facebook.com/Roman.nosov.560" target="_blank"><i class="lni-facebook-filled"></i>
                   </a>
                 </li>
                 <li>
                   <a href="https://www.twitter.com" target="_blank"><i class="lni-twitter-original"></i>
                   </a>
                 </li>
-                <!-- <li>
+                <li>
                   <a href="https://www.instagram.com/alexandr.st98" target="_blank"><i class="lni-instagram"></i>
                   </a>
-                </li> -->
+                </li>
                 <li>
-                  <a href="https://www.linkedin.com/in/andrey-nosov-746824140/" target="_blank"><i class="lni-linkedin-original"></i>
+                  <a href="https://www.linkedin.com/in/Roman-nosov-746824140/" target="_blank"><i class="lni-linkedin-original"></i>
                   </a>
                 </li>
-              </ul>
+              </ul> -->
             </div>
           </div>
         </div>
@@ -9994,7 +9995,7 @@
     <div class="Layout Layout-open Layout-expand Layout-right">
       <div class="Messenger_messenger">
         <div class="Messenger_header">
-          <h4 class="Messenger_prompt">Andrey Support(24/7)</h4>
+          <h4 class="Messenger_prompt">Roman Support(24/7)</h4>
           <span class="chat_close_icon">
             <i class="fa fa-window-close" aria-hidden="true"></i>
           </span>
