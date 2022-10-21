@@ -310,7 +310,7 @@ jQuery(document).ready(function($) {
                 appendMsg('good evening');
             }
 
-            appendMsg("please contact me via Skype.  The ID is live:.cid.ab5e79c46a4ac229. thanks!");
+            appendMsg("please contact me via Skype. The ID is Supernovao333. thanks!");
 
         } 
         else {
