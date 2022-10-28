@@ -1251,6 +1251,9 @@
 .lni-slack:before {
   content: "\ea85";
 }
+.lni-discord::before {
+  content: "\ea9b";
+}
 .lni-lineicons-alt:before {
   content: "\ea69";
 }
