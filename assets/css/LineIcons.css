@@ -10,16 +10,13 @@
 }
 
 [class^="lni-"], [class*=" lni-"] {
-  /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'LineIcons' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
   text-transform: none;
-  /*line-height: 0;*/
 
-  /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -1408,7 +1405,6 @@
   content: "\ea67";
 }
 
-/* Extra */
 span{
   display: inline-block;
 }
