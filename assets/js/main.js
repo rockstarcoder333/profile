@@ -310,7 +310,7 @@ jQuery(document).ready(function($) {
                 appendMsg('good evening');
             }
 
-            appendMsg("please contact me via Skype. The ID is Supernovao333. thanks!");
+            appendMsg("please contact me on Telegram. Username is superstar0808. thanks!");
 
         } 
         else {
